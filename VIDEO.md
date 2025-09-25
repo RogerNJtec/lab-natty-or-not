@@ -79,5 +79,3 @@ O sucesso aqui veio da **resistência em aceitar a perfeição**. Foi preciso fo
 O **"natty" em Belém** é o ambiente, o vapor e a vida espremida entre o passado e o futuro.  
 
 ---
-
-LINK DO VÍDEO
