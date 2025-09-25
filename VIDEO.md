@@ -1,4 +1,6 @@
-🍃 Catedral da Chuva e o Futuro Equatorial
+🍃 Mercado do Ver o Pesos na Chuva e o Futuro Equatorial
+
+
 📒 Descrição
 Criação de uma série de fotografias digitais hiper-realistas do Mercado do Ver o Peso em  Belém do Pará em um futuro utópico/distópico. O projeto mistura a icônica arquitetura colonial e art nouveau com biotecnologia avançada, tudo sob a luz úmida e equatorial da Amazônia.
 
