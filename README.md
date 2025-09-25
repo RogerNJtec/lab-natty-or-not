@@ -4,7 +4,7 @@
 
 ✨ Tecnologias: Gemini (LLM), Adobe Firefly (imagens), VEO 2 (vídeo).  
 
-🔗 [📖 Leia o projeto completo](./docs/PROJETO.md)  
+🔗 [📖 Leia o projeto completo](./media/PROJETO_VIDEO.md)  
 🎥 [Assista ao vídeo](./media/video_veropeso.mp4)  
 
 ---
