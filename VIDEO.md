@@ -76,6 +76,6 @@ O sucesso aqui veio da **resistência em aceitar a perfeição**. Foi preciso fo
 - 🏚️ As imperfeições da pintura colonial descascada  
 - ☀️ A maneira como a luz equatorial se difunde no ar carregado de água  
 
-O **"natty" em Belém** é a sujeira, o vapor e a vida espremida entre o passado e o futuro.  
+O **"natty" em Belém** é o ambiente, o vapor e a vida espremida entre o passado e o futuro.  
 
 ---
