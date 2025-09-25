@@ -11,6 +11,6 @@
 
 ## 🌆 Preview  
 
-![Preview do Ver-o-Peso Futurista](./media/preview.png)
+![Preview do Ver-o-Peso Futurista](./media/media/ Veropeso.jpg)
 
 ---
