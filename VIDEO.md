@@ -1,4 +1,4 @@
-🍃 Mercado do Ver o Pesos na Chuva e o Futuro Equatorial
+🍃 Mercado do Ver o Peso na Chuva e o Futuro Equatorial
 
 
 📒 Descrição
