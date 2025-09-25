@@ -12,7 +12,10 @@ Modelo de Geração de Imagem: Adobe Firefly, com foco na renderização fotorre
 Modelo de Geração de Vídeo a Partir de Imagem: VEO 2
 
 🧐 Processo de Criação
+
 Passo 1: Definição do Roteiro Visual
+
+
 Utilizei o Gemini para criar prompts que ancorassem a visão futurista na realidade de Belém. Os focos foram:
 
 Luz e Umidade: "Luz crepuscular intensa em Belém, atmosfera densa e úmida."
@@ -22,6 +25,7 @@ Arquitetura Base: "Fachadas coloniais e azulejos portugueses na chuva."
 Elemento Futurista: "Estruturas de bio-cápsulas flutuantes e pontes de fibra de carbono orgânico."
 
 Passo 2: Geração Fotorrealista Central
+
 Usei o Adobe Firefly para gerar a imagem central: o Mercado do Ver o Peso envolta em uma névoa futurista. O prompt detalhado incluiu: "fotorrealista, Ver o peso em Belém do Pará no ano 2077, à noite, chuva torrencial e intensa, atmosfera densa e úmida. Arquitetura colonial vitoriana e azulejos portugueses saturados de água refletindo a luz néon esverdeada de grandes estufas verticais orgânicas. Pedestres com capas de chuva translúcidas. Detalhes minuciosos de vapor subindo do asfalto, reflexos distorcidos nas poças d'água. Fotografia de rua, lentes anamórficas, profundidade de campo rasa, altamente detalhado, estilo Blade Runner encontra Realismo Mágico. --ar 16:9 --v 6.0."
 
 Passo 3: Geração de vídeo a partir de uma imagem "Natty"
