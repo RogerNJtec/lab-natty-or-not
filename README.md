@@ -5,7 +5,7 @@
 ✨ Tecnologias: Gemini (LLM), Adobe Firefly (imagens), VEO 2 (vídeo).  
 
 🔗 [📖 Leia o projeto completo](./PROJETO_VIDEO.md)  
-🎥 [Assista ao vídeo](./media/MercadodoVeroPesoFuturista.mp4)
+🎥 [Assista ao vídeo](https://youtu.be/rbiFXmS9Q80))
 
 ---
 
